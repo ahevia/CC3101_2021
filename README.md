@@ -29,7 +29,7 @@ combinatoria y grafos.
 El contenido del curso se trabaja en tres formatos complementarios que los alumnos deben ver y desarrollar: videos, trabajo individual y trabajo grupal.
 
 1.  **Clases en formato Videos:** Cada clase está grabada en una serie de videos cortos de publicación semanal, (puedes encontrar la [playlist completa acá](https://www.youtube.com/playlist?list=NNN)).
-2.  **Ejercicios (personales):** Cada estudiante debe desarrollar (individualmente) una evaluación corta (denominado "quiz") de no más de 5 minutos al final de cada cátedra. Los quizzes se realizan en forma individual y online y su contenido cubre el contenido de la clase correspondiente. Deben entregarse durante el día de la clase de cátedra correspondiente. 
+2.  **Quizzes (individuales):** Cada estudiante debe desarrollar (individualmente) una evaluación corta (denominado "quiz") de no más de 5 minutos al final de cada cátedra. Los quizzes es una evaluación formativa (opcionales), se realizan en forma individual y online y su contenido cubre el contenido de la clase correspondiente. 
 3.  **Trabajo grupal:** Cada estudiante deberá realizar tres actividades o trabajos grupales, uno por *macro unidad*, esto es, un total de 3 actividades. Los detalles están más abajo. 
 
 Los contenidos del curso están divididos en tres *macro unidades*: 
@@ -39,12 +39,12 @@ Los contenidos del curso están divididos en tres *macro unidades*:
 
 ## Reglas del curso y evaluación
 
-- **NF (nota final):** 2/3 NT + 1/3 NEJ (NC>=4 y NEJ>=4).
+- **NF (nota final):** 2/3 NC + 1/3 NE (NC>=4 y NE>=4).
 - **NC (nota trabajos grupales):** promedio de las notas para los 3 trabajos grupales (1 trabajo por cada macro unidad).
 - **NE (nota ejercicios):** promedio ejercicios (1 ejercicio x semana, ver calendario) a lo cual se agrega el bonus BonusQ, esto es, NE = (Promedio Ejercicios) + BonusQ. 
 - **NQ (nota quizzes):** promedio quizzes (1 quiz x clase de cátedra). Si NQ >=5.5 entonces BonusQ = 0.5. Si no, BonusQ=0.
 
-Tareas y Ejericios deben **aprobarse por separado**.
+Trabajos grupales y ejericios individuales deben **aprobarse por separado**.
 
 ## Quizzes (evaluaciones por clase)
 
@@ -102,8 +102,9 @@ Hay dos tipos de participaciones posibles:
 Cada estudiante podrá acceder a dos bonus por participación (el valor inicial del bonus para cada estudiante es BonusP = 0):
 
 1) Si durante la presentación de alguno de los otros grupos, su pregunta es seleccionada por el miembro del equipo docente que modera la sesión: Bonus += 0.2
-2) Si la nota asignada por el/la estudiante a alguno de los otros grupos que presentan en la misma sesión coincide con la nota asignada por el miembro del equipo docente (en un rango +/-0.1 décimas): Bonus += 0.5.
+2) Si la nota asignada por el/la estudiante a alguno de los otros grupos que presentan en la misma sesión coincide con la nota asignada por el miembro del equipo docente (en un rango +/-0.2 décimas): Bonus += 0.3.
 
+Nota: Este bonus sólo se aplica para preguntas y evaluaciones realizada en la misma sesión donde presenta la persona que puede recibir el bonus.
 
 ## Compromiso ético y política de colaboración durante el curso
 
