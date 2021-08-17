@@ -42,9 +42,9 @@ Los contenidos del curso están divididos en tres *macro unidades*:
 - **NF (nota final):** 2/3 NC + 1/3 NE (NC>=4 y NE>=4).
 - **NC (nota trabajos grupales):** promedio de las notas para los 3 trabajos grupales (1 trabajo por cada macro unidad).
 - **NE (nota ejercicios):** promedio ejercicios (1 ejercicio x semana, ver calendario) a lo cual se agrega el bonus BonusQ, esto es, NE = (Promedio Ejercicios) + BonusQ. 
-- **NQ (nota quizzes):** promedio quizzes (1 quiz x clase de cátedra). Si NQ >=5.5 entonces BonusQ = 0.5. Si no, BonusQ=0.
+- **NQ (nota quizzes):** promedio quizzes (1 quiz x clase de cátedra). Si bien los quizzes son optativos, todos son corregidos y su resultado comunicado. Si entrega al menos 20 de ellos (son 25) y el promedio NQ >=5.5 entonces obtiene BonusQ = 0.5. Si no, BonusQ=0.
 
-Trabajos grupales y ejericios individuales deben **aprobarse por separado**.
+Trabajos grupales y ejericios individuales deben **aprobarse por separado** .
 
 ## Quizzes (evaluaciones por clase)
 
