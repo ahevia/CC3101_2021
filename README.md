@@ -146,6 +146,9 @@ Semana | Tema | Enunciado | Pauta | Enunciado Ejercicio | Pauta Ejercicio
 
 [Ver el Google Calendar actualizado de las clases](https://calendar.google.com/calendar/u/0?cid=NTd1Y2Q1aW9tM3I4bGs1Nm5qNTE2aGZrOGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
+## Discord del curso
+Para unirse al discord del curso, hagan click [aquí](https://discord.gg/YznwNJu46p). En él podrán realizar consultas sobre cualquier cosa del curso :D.
+ 
 ## Bibliografía
 
 - [1] Rosen, K.H. (2011). “Discrete Mathematics and Applications”. McGraw-Hill: 7th Ed. 
