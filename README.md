@@ -1,5 +1,6 @@
-# Curso CC3102 Secciones 1 y 2 (Primavera 2021)
+# Curso CC3101 Secciones 1 y 2 (Primavera 2021)
 Matemáticas Discretas para la Computación, Semestre Primavera 2021
+Profesores Federico Olmedo y Alejandro Hevia
 
 ## Objetivos del curso
 
@@ -141,7 +142,7 @@ Semana | Tema | Enunciado | Pauta | Enunciado Ejercicio | Pauta Ejercicio
 2 | **Clase Auxiliar 1:**  | | | | 
 3 | **Clase Auxiliar 2:**  | | | |
 
-[Ver el Google Calendar actualizado de las clases](https://calendar.google.com/calendar/embed?src=o9k252abmbbpmi1ispf747a78c%40group.calendar.google.com&ctz=America%2FSantiago)
+[Ver el Google Calendar actualizado de las clases](https://calendar.google.com/calendar/u/0?cid=NTd1Y2Q1aW9tM3I4bGs1Nm5qNTE2aGZrOGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ## Bibliografía
 
