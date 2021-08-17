@@ -129,7 +129,7 @@ Se dejará un post en el Blog del curso con detalles sobre el material en caso q
 
 ## Calendario y Contenidos Publicados por Semana
 
-El calendario del semestre está resumido en [este PDF](https://github.com/ahevia/CC3101_2021/blob/admin/Schedule 2021 2-v2.pdf)
+El calendario del semestre está resumido en [este PDF](https://github.com/ahevia/CC3101_2021/blob/317dbb254c099355989307a87e0ab1ec64e04c30/admin/Schedule%202021%202-v2.pdf).
 
 Semana | Tema | Videos | Referencias (libros) | Material extra
 :------------: | :------------- | :------------- | :-------------: | :-------------: 
