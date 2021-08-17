@@ -101,8 +101,8 @@ Hay dos tipos de participaciones posibles:
 
 Cada estudiante podrá acceder a dos bonus por participación (el valor inicial del bonus para cada estudiante es BonusP = 0):
 
-1) Si durante la presentación de alguno de los otros grupos, su pregunta es seleccionada por el miembro del equipo docente que modera la sesión: Bonus += 0.2
-2) Si la nota asignada por el/la estudiante a alguno de los otros grupos que presentan en la misma sesión coincide con la nota asignada por el miembro del equipo docente (en un rango +/-0.2 décimas): Bonus += 0.3.
+1) Si durante la presentación de alguno de los otros grupos, su pregunta es seleccionada por el miembro del equipo docente que modera la sesión: BonusP += 0.2
+2) Si la nota asignada por el/la estudiante a alguno de los otros grupos que presentan en la misma sesión coincide con la nota asignada por el miembro del equipo docente (en un rango +/-0.2 décimas): BonusP += 0.3.
 
 Nota: Este bonus sólo se aplica para preguntas y evaluaciones realizada en la misma sesión donde presenta la persona que puede recibir el bonus.
 
