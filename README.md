@@ -47,10 +47,10 @@ Los contenidos del curso están divididos en tres *macro unidades*:
 
 Trabajos grupales y ejericios individuales deben **aprobarse por separado** .
 
-## Quizzes (evaluaciones por clase)
+## Quizzes (evaluaciones por clase, opcionales)
 
 Cada Martes y Jueves, al final del horario de cátedra, se dejará disponible un mini test o *quiz* de *carácter
-  formativo*, el cual estará 
+  formativo* (optativo), el cual estará 
   disponible en ucursos/tests y deberá ser respondido individualmente.
 Cada quiz tendrá unas pocas preguntas (típicamente 4) y estará diseñado para ser respondido en menos de 5-10 minutos.
 Si bien el plazo para entregar el quiz es todo el día, hasta las 23:59hrs, se recomienda contestarlo inmediatamente al finalizar de ver los videos asociados a la cátedra correspondiente. 
