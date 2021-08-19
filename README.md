@@ -74,12 +74,12 @@ Para este trabajo, entre 10 y 7 días antes de la fecha de entrega/presentación
 
 En cada trabajo grupal, cada grupo será evaluado en base a 2 entregables:
 
-1) Un breve reporte en PDF de _no más de 3 páginas_, el cual será evaluado con una nota NITG (Nota Informe Trabajo Grupal).
+1) Un breve reporte en PDF de _no más de 3 páginas_, el cual será evaluado con una nota NITG (Nota Informe Trabajo Grupal). Este reporte debe entregarse vía ucursos el día lunes de la semana de presentaciones.
 2) Una presentación de no más de 15 min, más 5 minutos para preguntas. Esto es evaluado por el miembro del equipo docente (profesor o auxiliar) presente, con nota NDPTG (Nota del Docente de la Presentación Trabajo Grupal), y por el resto de sus compañeros en la presentación, con nota NPPTG (Nota de Pares de la Presentación del Trabajo Grupal). 
 
 **Co-evaluación dentro del grupo:** Cada grupo debe co-evaluarse internamente, lo cual se traducirá en un ponderador PP (ponderador de pares) entre 0 y 1.
 
-La nota de cada trabajo grupal (NTG) será calculada como NTG = 0.25 x NITG + 0.5 x (NDPTG x PP + BonusP) + 0.25 x NPPTG.
+La nota de cada trabajo grupal (NTG) será calculada como NTG = 0.25 x NITG + 0.5 x ((NDPTG-1.0)x PP + 1.0 + BonusP) + 0.25 x NPPTG.
 La nota BonusP depende de la participación en la misma sesión es explicada más abajo.
 
 Los grupos deben ser de no más de 3 personas.
@@ -159,3 +159,7 @@ Computer Science”. Addison-Wesley: 2nd Ed.
 Cursos". 
 - [5]  Avigad,  J.,  Lewis,  R.Y.  y  Van  Doorn,  F.  (2017). "Logic  and  Proof”.  Disponible 
 en https://leanprover.github.io/logic_and_proof/. 
+ 
+ ## Log de Cambios
+ 
+ 2021-08-19 (por AH): Corrección menor en cálculo de nota de presentaciones de trabajo grupal para considerar punto base, y clarificación de la entrega del reporte el día Lunes de las semana de presentaciones.
