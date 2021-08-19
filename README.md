@@ -1,6 +1,8 @@
 # Curso CC3101 Secciones 1 y 2 (Primavera 2021)
-Matemáticas Discretas para la Computación, Semestre Primavera 2021
+Matemáticas Discretas para la Computación, Semestre Primavera 2021 </br>
 Profesores Federico Olmedo y Alejandro Hevia
+
+*(Ver log de cambios al final)*
 
 ## Objetivos del curso
 
