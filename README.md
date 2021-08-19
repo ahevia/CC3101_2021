@@ -74,7 +74,7 @@ Para este trabajo, entre 10 y 7 días antes de la fecha de entrega/presentación
 
 En cada trabajo grupal, cada grupo será evaluado en base a 2 entregables:
 
-1) Un breve informe en PDF de no más de 4 páginas, el cual será evaluado con una nota NITG (Nota Informe Trabajo Grupal).
+1) Un breve reporte en PDF de *no más de 3 páginas*, el cual será evaluado con una nota NITG (Nota Informe Trabajo Grupal).
 2) Una presentación de no más de 15 min, más 5 minutos para preguntas. Esto es evaluado por el miembro del equipo docente (profesor o auxiliar) presente, con nota NDPTG (Nota del Docente de la Presentación Trabajo Grupal), y por el resto de sus compañeros en la presentación, con nota NPPTG (Nota de Pares de la Presentación del Trabajo Grupal). 
 
 **Co-evaluación dentro del grupo:** Cada grupo debe co-evaluarse internamente, lo cual se traducirá en un ponderador PP (ponderador de pares) entre 0 y 1.
