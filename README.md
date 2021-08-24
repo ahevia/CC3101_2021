@@ -145,7 +145,7 @@ Semana | Tema | Videos | Referencias (libros) | Material extra
 
 Semana | Tema | Enunciado | Pauta | Enunciado Ejercicio | Pauta Ejercicio
 :------------: | :------------- | :-------------: | :-------------: | :-------------: | :-------------:
-2 | **Clase Auxiliar 1:**  | | | | 
+2 | **Clase Auxiliar 1:** Demostraciones en Lean  | <a href="#"><img src="https://icons-for-free.com/iconfiles/png/512/data+documents+file+format+programming+script+icon-1320166970496668764.png" width="16px" height="16px"> [Auxiliar 1 - Lean](https://github.com/ahevia/CC3101_2021/blob/main/ClasesAuxiliares/Auxiliar1/Auxiliar_1.lean) |<a href="#"><img src="https://icons-for-free.com/iconfiles/png/512/data+documents+file+format+programming+script+icon-1320166970496668764.png" width="16px" height="16px"> [Auxiliar 1 - Lean](https://github.com/ahevia/CC3101_2021/blob/main/ClasesAuxiliares/Auxiliar1/Pauta_Auxiliar_1.lean)| <a href="#"><img src="https://icons-for-free.com/iconfiles/png/512/data+documents+file+format+programming+script+icon-1320166970496668764.png" width="16px" height="16px"> [Ejercicio 1 - Lean](https://github.com/ahevia/CC3101_2021/blob/main/Ejercicios/Ejercicio1/Enunciado_Ejercicio_1.lean) | <a href="#"><img src="https://icons-for-free.com/iconfiles/png/512/data+documents+file+format+programming+script+icon-1320166970496668764.png" width="16px" height="16px"> [Ejercicio 1 - Lean](https://github.com/ahevia/CC3101_2021/blob/main/Ejercicios/Ejercicio1/Pauta_Ejercicio_1.lean)
 3 | **Clase Auxiliar 2:**  | | | |
 
 [Ver el Google Calendar actualizado de las clases](https://calendar.google.com/calendar/u/0?cid=NTd1Y2Q1aW9tM3I4bGs1Nm5qNTE2aGZrOGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
