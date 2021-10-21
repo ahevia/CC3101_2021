@@ -76,12 +76,19 @@ Para este trabajo, entre 10 y 7 días antes de la fecha de entrega/presentación
 
 En cada trabajo grupal, cada grupo será evaluado en base a 2 entregables:
 
-1) Un breve reporte en PDF de _no más de 3 páginas_, el cual será evaluado con una nota NITG (Nota Informe Trabajo Grupal). Este reporte debe entregarse vía ucursos el día lunes de la semana de presentaciones.
-2) Una presentación de no más de 15 min, más 5 minutos para preguntas. Esto es evaluado por el miembro del equipo docente (profesor o auxiliar) presente, con nota NDPTG (Nota del Docente de la Presentación Trabajo Grupal), y por el resto de sus compañeros en la presentación, con nota NPPTG (Nota de Pares de la Presentación del Trabajo Grupal). 
+1) Un breve reporte en PDF, con la solución del trabajo grupal.
+2) Una presentación (video) de no más de 15 min, más 5 minutos para preguntas. 
 
-**Co-evaluación dentro del grupo:** Cada grupo debe co-evaluarse internamente, lo cual se traducirá en un ponderador PP (ponderador de pares) entre 0 y 1.
+Tanto el reporte como la presentación son evaluados por el miembro del equipo docente (profesor o auxiliar) presente, con nota NDPTG (Nota del Docente de la Presentación Trabajo Grupal). El resto de sus compañeros en la misma sesión deben evaluar el trabajo de los *otros grupos*, asignándole una nota a cada grupo. El promedio de dichas notas (eliminando outliers) será la nota denominada NPPTG (Nota de Pares de la Presentación del Trabajo Grupal) asociada a cada grupo.
 
-La nota de cada trabajo grupal (NTG) será calculada como NTG = 0.25 x NITG + 0.5 x ((NDPTG-1.0)x PP + 1.0 + BonusP) + 0.25 x NPPTG.
+**Co-evaluación dentro del grupo:** Cada grupo debe co-evaluarse internamente, lo cual se traducirá en un ponderador PP (ponderador de pares), un número entre 0 y 1.
+
+La nota de cada trabajo grupal (NTG) será calculada como 
+
+(Trabajo Grupal 1:) NTG = 0.25 x NITG + 0.5 x ((NDPTG-1.0)x PP + 1.0 + BonusP) + 0.25 x NPPTG.
+
+(Trabajo Grupal 2 y 3:) NTG = 0.80 x ((NDPTG + BonusE - 1.0)x PP + 1.0 + BonusP) + 0.20 x ((NPPTG-1.0)*PP + 1.0),
+
 La nota BonusP depende de la participación en la misma sesión es explicada más abajo.
 
 Los grupos deben ser de no más de 3 personas.
@@ -90,9 +97,9 @@ Todas las presentaciones tendrán lugar durante la clase auxiliar del Lunes y
 
 **Temas de los trabajos grupales:**
 
-1) Macro Unidad I: _Se anunciará_ 
-2) Macro Unidad II: _Se anunciará_
-3) Macro Unidad III: _Se anunciará_
+1) Macro Unidad I: 27 y 28 de Septiembre 2021.
+2) Macro Unidad II: 8 y 9 de Noviembre 2021.
+3) Macro Unidad III: 29 y 30 de Noviembre 2021.
 
 ## Participación en Clases y Bonus
 
@@ -108,6 +115,10 @@ Cada estudiante podrá acceder a dos bonus por participación (el valor inicial 
 2) Si la nota asignada por el/la estudiante a alguno de los otros grupos que presentan en la misma sesión coincide con la nota asignada por el miembro del equipo docente (en un rango +/-0.2 décimas): BonusP += 0.3.
 
 Nota: Este bonus sólo se aplica para preguntas y evaluaciones realizada en la misma sesión donde presenta la persona que puede recibir el bonus.
+
+## Bonus por eficiencia
+
+En los trabajos grupales que incluyan implementación, se podrá tener un bonus por eficiencia si es que el enunciado lo indica. En este tipo de bonus, se evaluará la eficiencia (rapidez) de la solución en varios casos (metodología a publicar) y el grupo con la solución más rápida (eficiente) tendrá un bonus BonusE=+0.5.
 
 ## Compromiso ético y política de colaboración durante el curso
 
@@ -183,3 +194,4 @@ en https://leanprover.github.io/logic_and_proof/.
  ## Log de Cambios
  
  2021-08-19 (por AH): Corrección menor en cálculo de nota de presentaciones de trabajo grupal para considerar punto base, y clarificación de la entrega del reporte el día Lunes de las semana de presentaciones.
+ 2021-10-21 (por AH): Se actualizaron las reglas del trabajo grupal (para que sean coherentes con lo indicado en el blog).
